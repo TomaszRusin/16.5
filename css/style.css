@@ -1,0 +1,9 @@
+html, body { height: 100%; color: white; background-color: #38a7e7; }
+
+main { height: 100%; display: flex; align-items: center; flex-direction: column; justify-content: space-around; }
+
+main .box { display: flex; align-items: center; flex-direction: column; }
+
+main .trigger, main a { font-size: 20px; color: #fff; background-color: #38a7e7; padding: 10px; margin: 10px; text-decoration: none; border: 2px solid #fff; border-radius: 10px; }
+
+main .trigger:hover, main a:hover { background-color: #198fd3; }
